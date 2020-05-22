@@ -2,8 +2,7 @@
 
 ## タブレットのボタンなど
 
-<iframe src="https://drive.google.com/file/d/15Wb_ReivWOwiay2kswM_lAJ42kX7vxfn/preview" width="640" height="480"></iframe>
-<!-- ![tablet_hardware](https://drive.google.com/open?id=15Wb_ReivWOwiay2kswM_lAJ42kX7vxfn) -->
+![tablet_hardware](http://drive.google.com/uc?export=view&id=15Wb_ReivWOwiay2kswM_lAJ42kX7vxfn)
 
 ## 使う時
 
@@ -64,7 +63,8 @@
   1. [電源ボタン]を __長く押す__
   2. 画面に表示された[電源を切る]を押す
 
-![tablet_software_shutdown](https://drive.google.com/open?id=1WhAmxMgfQb1wzb-SbPPi3EC3Q-m1sdGk)
+![tablet_software_shutdown](http://drive.google.com/uc?export=view&id=1WhAmxMgfQb1wzb-SbPPi3EC3Q-m1sdGk)
+
 
   3. 画面に何もうつらなくなることを確認する
 
@@ -77,7 +77,7 @@
   1. [電源ボタン]を __長く押す__
   2. 画面に表示された[再起動]を __短く押す__
 
-![tablet_software_reboot](https://drive.google.com/open?id=1YHoPhUtkz0wL_d4qHs7gicBlsV0h9Yw_)
+![tablet_software_shutdown](http://drive.google.com/uc?export=view&id=1YHoPhUtkz0wL_d4qHs7gicBlsV0h9Yw_)
 
   3. 画面が何もうつらなくなったことを確認する
   4. １分ぐらい待った後、また画面がうつることを確認する

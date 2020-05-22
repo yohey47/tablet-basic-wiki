@@ -1,6 +1,6 @@
 # □ボタン
 
-![navigation_var](http://drive.google.com/uc?export=view&id=1N65V2xlXvFlJ8l3DiL0AIqw1XeLnnPbJ)
+![navigation_var](https://mega.nz/file/PIEGUaqA#qf_WijXl9Clz1run1cx5np9blJp3CMHfcUu4cEI0Ihg)
 
 ## 機能
 
@@ -46,7 +46,7 @@
   1. □ボタンを短く押す
   2. 利用していたアプリの画面が小さくなり、他のアプリが選択できるようになるので、利用したいアプリを選択する。
 
-<iframe src="https://drive.google.com/file/d/1pQFgc1CaPq5ye4rWsRyhTVF6Tzvp90xh" height="480"></iframe>
+<iframe src="https://mega.nz/file/bJN2VaqS#ozqaT4WwD0vI7Uk6rzQqzJxPlp6fH0Jy-bxgMJS54mw" height="480"></iframe>
 
 <br><br>
 
@@ -55,7 +55,7 @@
   1. □ボタンを短く押す
   2. 終了したいアプリを上方向に[スワイプ]します。
 
-<iframe src="https://drive.google.com/file/d/1Znfp5xym7XsROduG8N8z0J7Bxv7hcLB1" height="480"></iframe>
+<iframe src="https://mega.nz/file/qQEywahQ#FrahiRx9NY5b2lF3yi0qFvk36HFx9rDszYH38-kIpJ4" height="480"></iframe>
 
 <br><br>
 

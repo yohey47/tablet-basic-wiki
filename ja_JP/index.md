@@ -9,16 +9,18 @@
   * [◁ボタン](operation_button_prev.md)
   * [□ボタン](operation_button_appswitch.md)
 
+## タブレットの状態
+
+  * [タブレットの状態](tablet_status.md)
+
+## アプリ
+
+  * [Googleアシスタント](google_assistant.md)
 
 ## 用語
 
   * [タブレット](term_tablet.md)
   * [スマートフォン（スマホ）](term_smartphone.md)
   * [WiFi（ワイファイ）](term_wifi.md)
-
-## アプリ
-
-  * [Googleアシスタント](google_assistant.md)
-
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

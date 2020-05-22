@@ -2,7 +2,7 @@
 
 画面が点灯している状態で、画面下部にある[○ボタン]についての説明です。
 
-![navigation_bar](https://mega.nz/file/PIEGUaqA#qf_WijXl9Clz1run1cx5np9blJp3CMHfcUu4cEI0Ihg)
+![navigation_bar](https://drive.google.com/open?id=1N65V2xlXvFlJ8l3DiL0AIqw1XeLnnPbJ)
 
 ## 機能
 

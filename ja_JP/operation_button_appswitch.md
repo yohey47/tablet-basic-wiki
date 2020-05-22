@@ -46,7 +46,7 @@
   1. □ボタンを短く押す
   2. 利用していたアプリの画面が小さくなり、他のアプリが選択できるようになるので、利用したいアプリを選択する。
 
-<iframe src="https://drive.google.com/file/d/1pQFgc1CaPq5ye4rWsRyhTVF6Tzvp90xh/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1pQFgc1CaPq5ye4rWsRyhTVF6Tzvp90xh/preview" height="480"></iframe>
 
 <br><br>
 

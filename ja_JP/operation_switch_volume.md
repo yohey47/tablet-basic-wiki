@@ -30,7 +30,4 @@
 
 ![tablet_volume_up_down](http://drive.google.com/uc?export=view&id=1GVwP8gUkGz0jM5e1QDMQRRQV0k3L9Kcc)
 
-
-
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

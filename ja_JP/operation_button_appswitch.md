@@ -1,6 +1,6 @@
 # □ボタン
 
-![navigation_var](https://drive.google.com/open?id=1N65V2xlXvFlJ8l3DiL0AIqw1XeLnnPbJ)
+![navigation_var](http://drive.google.com/uc?export=view&id=1N65V2xlXvFlJ8l3DiL0AIqw1XeLnnPbJ)
 
 ## 機能
 

@@ -2,7 +2,8 @@
 
 ## タブレットのボタンなど
 
-![tablet_hardware](https://drive.google.com/open?id=15Wb_ReivWOwiay2kswM_lAJ42kX7vxfn)
+<iframe src="https://drive.google.com/file/d/15Wb_ReivWOwiay2kswM_lAJ42kX7vxfn/preview" width="640" height="480"></iframe>
+<!-- ![tablet_hardware](https://drive.google.com/open?id=15Wb_ReivWOwiay2kswM_lAJ42kX7vxfn) -->
 
 ## 使う時
 

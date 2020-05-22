@@ -1,5 +1,7 @@
 # ◁ボタン
 
+![navigation_bar](https://mega.nz/file/PIEGUaqA#qf_WijXl9Clz1run1cx5np9blJp3CMHfcUu4cEI0Ihg)
+
 画面が点灯している状態で、画面下部にある「◁ボタン」についての説明です。
 
 ## 機能

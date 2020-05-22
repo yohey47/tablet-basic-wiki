@@ -65,7 +65,6 @@
 
 ![tablet_software_shutdown](http://drive.google.com/uc?export=view&id=1WhAmxMgfQb1wzb-SbPPi3EC3Q-m1sdGk)
 
-
   3. 画面に何もうつらなくなることを確認する
 
 <br>

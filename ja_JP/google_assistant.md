@@ -10,20 +10,12 @@ Google社が開発したアプリのこと
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t2MsKQEvxpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This will show the video preview on your website:
-[](http://www.youtube.com/watch?v=t2MsKQEvxpA)
-
-[Google_assistant_just_for_you](http://youtu.be/t2MsKQEvxpA)
-
-
 ### Google アシスタント それ、Googleにやらせよう 編
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ZNyLhs7wlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Lets_let_Google_do_it](https://youtu.be/8ZNyLhs7wlU)
 
 ### スシロー 編
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NDnPdaU3UQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Google_assistant_shushiro](https://youtu.be/NDnPdaU3UQ8)
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

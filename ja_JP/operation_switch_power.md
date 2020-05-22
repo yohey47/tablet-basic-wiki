@@ -2,7 +2,7 @@
 
 ## タブレットのボタンなど
 
-![tablet_hardware](http://drive.google.com/uc?export=view&id=15Wb_ReivWOwiay2kswM_lAJ42kX7vxfn)
+![tablet_hardware](https://mega.nz/file/rFUigQYQ#JZGP7WIfz3mL1et1jl8JKQ1a4wRSOwLhr7S0RSusmKw)
 
 ## 使う時
 
@@ -63,7 +63,7 @@
   1. [電源ボタン]を __長く押す__
   2. 画面に表示された[電源を切る]を押す
 
-![tablet_software_shutdown](http://drive.google.com/uc?export=view&id=1WhAmxMgfQb1wzb-SbPPi3EC3Q-m1sdGk)
+![tablet_software_shutdown](https://mega.nz/file/aId02YZR#havjsFYiDQ81mFgvntqszCGNqiupsl4Zzl41wfytXTs)
 
   3. 画面に何もうつらなくなることを確認する
 
@@ -76,7 +76,7 @@
   1. [電源ボタン]を __長く押す__
   2. 画面に表示された[再起動]を __短く押す__
 
-![tablet_software_reboot](http://drive.google.com/uc?export=view&id=1YHoPhUtkz0wL_d4qHs7gicBlsV0h9Yw_)
+![tablet_software_reboot](https://mega.nz/file/2YVkVKBR#Y-TqAryDlZpHAGard3Ua2slPjTHmi9rvT1IGVsrhTTE)
 
   3. 画面が何もうつらなくなったことを確認する
   4. １分ぐらい待った後、また画面がうつることを確認する

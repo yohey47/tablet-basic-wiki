@@ -46,7 +46,8 @@
   1. □ボタンを短く押す
   2. 利用していたアプリの画面が小さくなり、他のアプリが選択できるようになるので、利用したいアプリを選択する。
 
-[過画像をここに！！]()
+<iframe width="560" height="315" src="https://drive.google.com/open?id=1pQFgc1CaPq5ye4rWsRyhTVF6Tzvp90xh" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <br><br>
 

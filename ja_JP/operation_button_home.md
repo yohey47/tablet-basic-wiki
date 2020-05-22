@@ -30,3 +30,5 @@
 [Google（グーグル）アシスタント] が起動します。
 
 ※詳しくは、[Google（グーグル）アシスタント](google_assistant.md)ページを確認してください。
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

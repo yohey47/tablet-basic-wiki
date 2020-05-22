@@ -55,7 +55,7 @@
   1. □ボタンを短く押す
   2. 終了したいアプリを上方向に[スワイプ]します。
 
-[]()スワイプ動画！？
+<iframe src="https://drive.google.com/file/d/1Znfp5xym7XsROduG8N8z0J7Bxv7hcLB1/preview" height="480"></iframe>
 
 <br><br>
 

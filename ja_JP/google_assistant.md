@@ -8,10 +8,6 @@ Google社が開発したアプリのこと
 
 ### あなただけのGoogleアシスタント
 
-<video controls width="100%">
-    <source src="http://youtu.be/t2MsKQEvxpA"
-</video>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t2MsKQEvxpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This will show the video preview on your website:

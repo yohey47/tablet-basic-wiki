@@ -46,7 +46,7 @@
   1. □ボタンを短く押す
   2. 利用していたアプリの画面が小さくなり、他のアプリが選択できるようになるので、利用したいアプリを選択する。
 
-<iframe src="https://drive.google.com/file/d/1pQFgc1CaPq5ye4rWsRyhTVF6Tzvp90xh/preview" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1pQFgc1CaPq5ye4rWsRyhTVF6Tzvp90xh" height="480"></iframe>
 
 <br><br>
 
@@ -55,7 +55,7 @@
   1. □ボタンを短く押す
   2. 終了したいアプリを上方向に[スワイプ]します。
 
-<iframe src="https://drive.google.com/file/d/1Znfp5xym7XsROduG8N8z0J7Bxv7hcLB1/preview" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1Znfp5xym7XsROduG8N8z0J7Bxv7hcLB1" height="480"></iframe>
 
 <br><br>
 

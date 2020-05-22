@@ -6,7 +6,7 @@
   * [音量を上げる]ボタン
   * [音量を下げる]ボタン
 
-![tablet_overview](http://drive.google.com/uc?export=view&id=15Wb_ReivWOwiay2kswM_lAJ42kX7vxfn)
+![tablet_overview](https://mega.nz/file/rFUigQYQ#JZGP7WIfz3mL1et1jl8JKQ1a4wRSOwLhr7S0RSusmKw)
 
 ## [音量を上げる]ボタン
 
@@ -17,7 +17,7 @@
   1. [音量を上げる]を適切な音量になるまで、短く、複数回押してください。
   2. 音量の大きさは、画面に表示される、音量を示した値を確認してください。
 
-![tablet_volume_up_down](http://drive.google.com/uc?export=view&id=1GVwP8gUkGz0jM5e1QDMQRRQV0k3L9Kcc)
+![tablet_volume_up_down](https://mega.nz/file/DAcWlCQJ#gtaeRmF2BHi5g5JlUEu0ULB1T3IjCZaoOvLv_rP8ywo)
 
 
 ## [音量を下げる]ボタン
@@ -29,4 +29,4 @@
   1. [音量を下げる]を適切な音量になるまで、短く、複数回、押してください。
   2. 音量の大きさは、画面に表示される、音量を示した値を確認してください。
 
-![tablet_volume_up_down](http://drive.google.com/uc?export=view&id=1GVwP8gUkGz0jM5e1QDMQRRQV0k3L9Kcc)
+![tablet_volume_up_down](https://mega.nz/file/DAcWlCQJ#gtaeRmF2BHi5g5JlUEu0ULB1T3IjCZaoOvLv_rP8ywo)

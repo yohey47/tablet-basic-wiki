@@ -13,6 +13,10 @@
 
   * [タブレットの状態](tablet_status.md)
 
+## 指の使い方
+
+  * [指の使い方](use_fingers.md)
+
 ## アプリ
 
   * [Googleアシスタント](google_assistant.md)

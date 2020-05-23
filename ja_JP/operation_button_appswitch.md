@@ -46,9 +46,7 @@
   1. □ボタンを短く押す
   2. 利用していたアプリの画面が小さくなり、他のアプリが選択できるようになるので、利用したいアプリを選択する。
 
-<iframe src="https://drive.google.com/file/d/1pQFgc1CaPq5ye4rWsRyhTVF6Tzvp90xh/preview" width="640" height="480"></iframe>
-
-<!-- <iframe src="https://mega.nz/file/bJN2VaqS#ozqaT4WwD0vI7Uk6rzQqzJxPlp6fH0Jy-bxgMJS54mw" height="480"></iframe> -->
+<iframe width="240" height="360" frameborder="0" src="https://mega.nz/embed/7Q13HYBT#KYjEF6ZnwUeV0ozBdE9JKPOk0-mEoTB5DAjR0A4_Jyk" allowfullscreen ></iframe> 
 
 <br><br>
 
@@ -57,9 +55,7 @@
   1. □ボタンを短く押す
   2. 終了したいアプリを上方向に[スワイプ]します。
 
-<iframe src="https://drive.google.com/file/d/1Znfp5xym7XsROduG8N8z0J7Bxv7hcLB1/preview" width="640" height="480"></iframe>
-
-<!-- <iframe src="https://mega.nz/file/qQEywahQ#FrahiRx9NY5b2lF3yi0qFvk36HFx9rDszYH38-kIpJ4" height="480"></iframe> -->
+<iframe width="240" height="360" frameborder="0" src="https://mega.nz/embed/PFsjXAAS#pN-Uxb7uJQiMpnmM9rjcQORJBdRSiTkA5umCd9rKjNQ" allowfullscreen ></iframe>
 
 <br><br>
 

@@ -11,6 +11,8 @@ E-Mail（イーメール）を送信します。
   * [TO](term_mail_to.md)
   * [CC](term_mail_cc.md)
   * [BCC](term_mail_bcc.md)
+  * [Re](term_mail_re.md)
+  * [Fw](term_mail_fw.md)
   * [メールを新規作成](term_mail_new.md)
   * [メールを受信](term_mail_receive.md)
   * [メールを返信](term_mail_reply.md)

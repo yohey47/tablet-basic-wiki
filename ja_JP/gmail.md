@@ -9,7 +9,7 @@ E-Mail（イーメール）を送信します。
   * [メールアドレス](term_email_address.md)
   * [アドレス帳](term_addressbook.md)
   * [TO](term_mail_to.md)
-  * [CC](term_mail_cc.dm)
+  * [CC](term_mail_cc.md)
   * [BCC](term_mail_bcc.md)
   * [メールを新規作成](term_mail_new.md)
   * [メールを受信](term_mail_receive.md)

@@ -69,6 +69,7 @@ ___
   2. 次の動画のように![Gmail_Forward](http://drive.google.com/uc?export=view&id=1PBISqnAAwF5gEtzquWo8AaG5NRFvD1Si)ボタンを押します。
 
 <iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/2BklmaCY#d4ujnCuu05iPNLEFzoJ_T1VPcjep4kXIuJEtpGx87_k" allowfullscreen ></iframe>
+
 ___
 
 ## アドレスを入力する

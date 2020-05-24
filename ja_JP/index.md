@@ -18,7 +18,7 @@
   * [指の使い方](use_fingers.md)
 
 ## アプリ
-
+  * [Gmail](gmail.md)
   * [Googleアシスタント](google_assistant.md)
 
 ## 用語

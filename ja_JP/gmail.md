@@ -25,7 +25,9 @@ ___
 
 ## メールを新規作成
 
-アプリにある![Gmail_New](http://drive.google.com/uc?export=view&id=1I0VjCeCsM5yaaIsxxuC-VeRjLHfzROFC)ボタンを押します。
+アプリにある![Gmail_New](http://drive.google.com/uc?export=view&id=1ufagws1c6qjCM-zVfg4ZxGCx2IYIes6d)ボタンを押します。
+
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/qFM2DSQR#oGSxGN-f7-PStftXN4IHUrHScAzIOj0nPYvw8q_6r7o" allowfullscreen ></iframe>
 
 ___
 
@@ -39,7 +41,7 @@ ___
 
   次の動画のように、指で下に引っ張り離します。
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/OVV0Wa4R#3E_u_V_sAjPX0PdotuWwwsIbmavZQ9Gkhe8r17s5Zv8" allowfullscreen ></iframe>
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/iUN0BAgR#N-UDuWlDKy5mOcWQZrplN_BoLQJ2J713qxqjMiFcM3U" allowfullscreen ></iframe>
 
 ___
 
@@ -48,7 +50,7 @@ ___
   1. 受信したメールを開きます。
   2. 次の動画のように![Gmail_Reply](http://drive.google.com/uc?export=view&id=15TH_vDArpRHo9c5s4PcBn-OrR-cVCGi-)ボタンを押します。
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/Kcc0kQRJ#NB5VO-o6vdWRIY4x8BFwcaUM1kljjWYbZCMMQNPFc2g" allowfullscreen ></iframe>
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/2YEwCQRA#FamD8Kw6_7SZImyGTmqKcIrtjhfZmNhegdb_GhLYjLs" allowfullscreen ></iframe>
 
 ___
 
@@ -57,7 +59,7 @@ ___
   1. 受信したメールを開きます。
   2. 次の動画のように![Gmail_Option](http://drive.google.com/uc?export=view&id=1G8Opfs4GZnHDAMTmKFvaiFnfQej0ptwc)ボタンを押し、続けて[全員に返信]を押します。
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/aZMCFIrA#9JJMJ33O4WFqQ2-3a4c60Ye5oIYxZW6p1jaojJccQe0" allowfullscreen ></iframe>
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/jMNmiYCb#ItEISptMCelfYWWzyp31ZRXb-kyjUmvzHQkDTSz1mFc" allowfullscreen ></iframe>
 
 ___
 
@@ -66,18 +68,44 @@ ___
   1. 受信したメールを開きます。
   2. 次の動画のように![Gmail_Forward](http://drive.google.com/uc?export=view&id=1PBISqnAAwF5gEtzquWo8AaG5NRFvD1Si)ボタンを押します。
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/GYFyCAaA#oGRw6gffBqIKRDxCqe87DTXw1f7RgzrNnINjwSp_hvM" allowfullscreen ></iframe>
-
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/2BklmaCY#d4ujnCuu05iPNLEFzoJ_T1VPcjep4kXIuJEtpGx87_k" allowfullscreen ></iframe>
 ___
 
 ## アドレスを入力する
 
-### キーボードを使う方法
+メールアドレスを入力する方法は２つあります。
 
-### アドレス帳を使う方法
+  * キーボードを使って入力する方法
+  * アドレス帳を使って選択する方法
 
-## 件名を入力する
+### キーボードを使って入力する方法
 
-## 本文を入力する
+  1. 新規作成などから、メールを作成する画面に移動します。
+  2. 次の動画のように[To]の欄にアドレスを入力します。
+
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/CIlgnChZ#9n5fMms6zQ7IgOTp55CS0nLCO4ph04l1GmsvcfzuB_I" allowfullscreen ></iframe>
+
+___
+
+### アドレス帳を使って選択する方法
+
+  1. 新規作成などから、メールを作成する画面に移動します。
+  2. ![Gmail_Option](http://drive.google.com/uc?export=view&id=1G8Opfs4GZnHDAMTmKFvaiFnfQej0ptwc)ボタンを押した後、[コンタクトから追加]を選びます。
+  3. 登録してあるメールアドレスを選択します。
+
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/GY00SC5K#jNMK91jp91_C3Z-9QWWzL7e6WjM_OdWIb_JciZzzWt4" allowfullscreen ></iframe>
+
+___
 
 ## 添付ファイルをつける
+
+1. 新規作成などから、メールを作成する画面に移動します。
+2. ![Gmail_Option](http://drive.google.com/uc?export=view&id=1L_3ZUEZedX812gp_oXn7FUQXJ-j_DppO)ボタンをタップし、[ファイルを添付]を選びます。
+3. 開いた画面の中から、添付したいファイルを選んでタップします。
+
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/aZ011BrI#M08NgOpUTNNh6ePXq-xGcGbC-9cOaH-QoPhZCyG2Y3A" allowfullscreen ></iframe>
+
+__
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

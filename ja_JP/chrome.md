@@ -4,12 +4,14 @@
 
 ## 関連用語
 
+  * Chrome（クローム）
   * Web（ウェブ）
   * Web（ウェブ）ブラウザー
-  * アドレス
+  * アドレス（インターネット）
   * アドレスバー
+  * タブ（Webブラウザー）
   * ブックマーク
-  * リンク
+  * リンク（インターネット）
   * 広告
 
 ## アプリの起動
@@ -64,7 +66,7 @@ Chromeには[タブ]と言う機能がついています。
   1. インターネットアドレスをロングタップします
   2. コピーしたい範囲などを指定する場合は、適切に指定してください
   3. ポップアップした、メニューから[コピー]を選択します
-  4. コピー元がChrome出ない場合は、アプリを切り替えます
+  4. コピー元がChromeではない場合は、アプリを切り替えます
   5. アドレスバーをロングタップし、オプションを表示させ、[貼り付け]をタップします
   6. 最後に表示されているキーボードの![navigation_var](http://drive.google.com/uc?export=view&id=1_C4vR_eh2bYbH1bJlKrqNaXiGc3PM1n1)ボタンをタップしてページを表示します
 
@@ -94,7 +96,7 @@ Chromeには[タブ]と言う機能がついています。
 
 ## ブックマークの削除
 
-  1. まずは、登録したブックマックからページを表示します
+  1. 登録したブックマックなどから、ページを表示します
   2. 表示したページがブックマーク登録されている場合は、星マークが青色![chrome_bookmark](http://drive.google.com/uc?export=view&id=1hzhyzRVG8Of6C7nXEdBCVpq8IKyhQv4v)に塗りつぶされています
   3. この星マークを一度タップして、表示された画面の右上にある、ゴミ箱![chrome_bookmark](http://drive.google.com/uc?export=view&id=1vU-9t2V7kvjJ3UvBuXKyoUUfcM2AsCBO)マークをタップします
   4. 青色に塗りつぶされていた星マークが、白抜きの星マーク![chrome_bookmark](http://drive.google.com/uc?export=view&id=1YnTmRd9jTxdXQNWepZJs22x3Qqs4k6LZ)に変化すれば、削除完了です。

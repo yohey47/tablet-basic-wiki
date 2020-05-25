@@ -1,6 +1,3 @@
-# タブレットの基本
-
-
 ## 操作
 
   * [電源ボタン](operation_switch_power.md)
@@ -16,10 +13,24 @@
 ## 指の使い方
 
   * [指の使い方](use_fingers.md)
+  * [コピーペースト（文字の複製）](copy_paste.md)  <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="new" width="25" height="auto">
 
 ## アプリ
+  *  Chrome
   * [Gmail](gmail.md) <img src="http://drive.google.com/uc?export=view&id=1XY4ka-baMhSraPEDIDyu69Okb8E9bOaf" alt="new" width="25" height="auto">
+  * [Google Map（地図）](google_map.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [Google フォト](google_photo.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [Google Keep（メモをとる）](google_keep.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [Google 翻訳](google_translate.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [Google アドレス帳](google_address_book.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
   * [Googleアシスタント](google_assistant.md)
+  * [Google カレンダー](google_calendar.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [Google Play Store](google_play_store.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [Google Play ブックス](google_play_books.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [Google Play ミュージック](google_play_music.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [Google Play ムービー](google_play_movie.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [Youtube](yourube.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [LINE](line.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
 
 ## 用語
 

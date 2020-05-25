@@ -28,7 +28,7 @@
 
 ---
 
-##　情報元
+## 情報元
 
 [e-words.jp（広告）](http://e-words.jp/w/%E5%BA%83%E5%91%8A.html)
 

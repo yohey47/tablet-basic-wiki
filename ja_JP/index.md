@@ -16,7 +16,7 @@
   * [コピーペースト（文字の複製）](copy_paste.md)  <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="new" width="25" height="auto">
 
 ## アプリ
-  * [Chrome（インターネット）](chrome.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
+  * [Chrome（インターネット）](chrome.md) <img src="http://drive.google.com/uc?export=view&id=1XY4ka-baMhSraPEDIDyu69Okb8E9bOaf" alt="new" width="25" height="auto">
   * [Gmail](gmail.md) <img src="http://drive.google.com/uc?export=view&id=1XY4ka-baMhSraPEDIDyu69Okb8E9bOaf" alt="new" width="25" height="auto">
   * [Google Map（地図）](google_map.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">
   * [Google フォト](google_photo.md) <img src="http://drive.google.com/uc?export=view&id=1IOulZfh9wMtSA9e6UOPF1rux5x-dhcfl" alt="progress" width="25" height="auto">

@@ -4,16 +4,16 @@
 
 ## 関連用語
 
-  * Chrome（クローム）
-  * Web（ウェブ）
-  * Web（ウェブ）ブラウザー
-  * アドレス（インターネット）
-  * アドレスバー
-  * タブ（Webブラウザー）
-  * ブックマーク（インターネット）
-  * リンク（インターネット）
-  * 広告
-  * コピーとペースト
+  * [Chrome（クローム）](term_chrome.md)
+  * [Web（ウェブ）](term_web.md)
+  * [Web（ウェブ）ブラウザー](term_web_browser.md)
+  * [アドレス（インターネット）](term_internet_address.md)
+  * [アドレスバー](term_address_bar.md)
+  * [タブ（Webブラウザー）](term_browser_tab.md)
+  * [ブックマーク（インターネット）](term_bookmark.md)
+  * [リンク（インターネット）](term_internet_link.md)
+  * [広告](term_internet_ads.md)
+  * [コピーとペースト](term_copy_and_paste.md)
 
 ## アプリの起動
 

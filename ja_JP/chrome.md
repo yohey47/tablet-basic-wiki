@@ -108,16 +108,14 @@ Chromeには[タブ]と言う機能がついています。
 
 ## ブックマークをフォルダで整理する
 
-  1. Chromeの右上にある![chrome_option](http://drive.google.com/uc?export=view&id=1G8Opfs4GZnHDAMTmKFvaiFnfQej0ptwc)マークをタップします。
-  2. 表示されたメニューで[ブックマーク]をタップします。
-  3. 登録してある、それぞれのブックマークで、右側にあるオプションメニュー![chrome_option](http://drive.google.com/uc?export=view&id=1G8Opfs4GZnHDAMTmKFvaiFnfQej0ptwc)をタップします。
-  4. 表示したオプションメニューで[編集]を選択します。
-  5. [フォルダ]欄をタップします（この例では[モバイルのブックマーク]となっています）
-  6. [新しいフォルダ...]をタップします。
-  7. フォルダの名前を分けたいカテゴリなどに変更し、チェックマーク![chrome_edit_finish](http://drive.google.com/uc?export=view&id=10CywkHLdBFObx-oS_bJ9F-uZXu9pv2yf)をタップします（この例では[買い物]とします）
-  8. 最後に[ブックマークを編集]画面から、戻る矢印![chrome_edit_finish](http://drive.google.com/uc?export=view&id=1ppTCmYTyQ5by-BHbntLdQkjsa43HznjN)ボタンをタップします。
-  9. ブックマークに[買い物]フォルダが作成されたことを確認してください。
-  10. [買い物]フォルダをタップして、ブックマークが移動できたことを確認してください。
+  1. Chromeの右上にある![chrome_option](http://drive.google.com/uc?export=view&id=1G8Opfs4GZnHDAMTmKFvaiFnfQej0ptwc)マークをタップし、表示されたメニューで[ブックマーク]をタップします
+  2. 登録してある、それぞれのブックマークで、右側にあるオプションメニュー![chrome_option](http://drive.google.com/uc?export=view&id=1G8Opfs4GZnHDAMTmKFvaiFnfQej0ptwc)をタップし、[編集]をタップします
+  4. [フォルダ]欄をタップします（この例では[モバイルのブックマーク]となっています）
+  5. [新しいフォルダ...]をタップします
+  6. フォルダの名前を、分けたいカテゴリなどに変更し、チェックマーク![chrome_edit_finish](http://drive.google.com/uc?export=view&id=10CywkHLdBFObx-oS_bJ9F-uZXu9pv2yf)をタップします（この例では[買い物]とします）
+  7. 最後に[ブックマークを編集]画面から、戻る矢印![chrome_edit_finish](http://drive.google.com/uc?export=view&id=1ppTCmYTyQ5by-BHbntLdQkjsa43HznjN)ボタンをタップします
+  8. 一覧に[買い物]フォルダが作成されたことを確認してください
+  9. [買い物]フォルダをタップして、編集したブックマークが移動できたことを確認してください
 
 <iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/6Q1VFQBJ#i_c-0EkodpTiV1KAiLSTjnSueVmJ91YGB70u6xkBBms" allowfullscreen ></iframe>
 

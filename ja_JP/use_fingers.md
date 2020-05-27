@@ -119,7 +119,7 @@
 <br>
 
 ### ピンチアウト（二本指で広げる）
-
+<!---  http://help.mb.softbank.jp/204sh/sp/02-07.html#action_02-07-21  --->
 （作成中です。）
 
 <br>

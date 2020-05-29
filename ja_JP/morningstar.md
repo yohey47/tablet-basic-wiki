@@ -289,8 +289,8 @@
 ## ウォッチリストの登録
 
   1. アプロの画面の一番下で「ウォッチリスト」が選択されていることを確認してください。
-  2. <img src="http://drive.google.com/uc?export=view&id=1BaVGqVOemARM3Cx56h4eHvzNnkf5QaYo" alt="progress" width="40" height="auto"> ボタンをタップします。
-  3. 
+  2. <img src="http://drive.google.com/uc?export=view&id=1BaVGqVOemARM3Cx56h4eHvzNnkf5QaYo" width="40" height="auto"> ボタンをタップします。
+  3. <img src="http://drive.google.com/uc?export=view&id=1uJdCqtbwvUmP8D5YL8awYGTs0qn_SIbU" width="80" htight="auto"> ボタンをタップします。
 
 
 <iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/SdlkHKxI#Bd1fXCoIiWbm2c5kmsvhk1ofOTlKmKjcgvJ2OTqq1vA" allowfullscreen ></iframe>

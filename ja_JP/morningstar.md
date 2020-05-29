@@ -1,5 +1,9 @@
 # Morning Star（株の情報管理）
 
+<br><br><br>
+
+
+
 ## 用語
 
   * [ウォッチリスト（株情報管理）](term_stock_watch.md)
@@ -316,13 +320,15 @@
   * [学ぶ_セミナーとイベント情報](term_learn_fund_news.md)
   * [学ぶ_YouTube動画配信](term_learn_fund_news.md)
 
-<br>
+<br><br><br>
+
+
 
 ## アプリの起動
 
 Morning Star （株の情報管理）アプリを起動します。
 
-<br>
+<br><br><br>
 
 
 
@@ -332,7 +338,7 @@ Morning Star （株の情報管理）アプリを起動します。
 
 <iframe width="360" height="640" frameborder="0" src="https://mega.nz/embed/PBVTCSiA#_6UuTla-Sm8b7QdSeiz_2zfxqdd-7kX2tPyWVOIMJqk" allowfullscreen ></iframe>
 
-<br>
+<br><br><br>
 
 
 
@@ -343,7 +349,7 @@ Morning Star （株の情報管理）アプリを起動します。
 
 <iframe width="360" height="640" frameborder="0" src="https://mega.nz/embed/KM1zQaCb#CmpHaldW9oBI1k7R3tPXfh1ybjXBd1CFGsUMqT5v82w" allowfullscreen ></iframe>
 
-<br>
+<br><br><br>
 
 
 
@@ -351,7 +357,7 @@ Morning Star （株の情報管理）アプリを起動します。
 
 ウォッチリストに表示する銘柄などを編集します。
 
-<br>
+<br><br><br>
 
 
 
@@ -374,7 +380,7 @@ Morning Star （株の情報管理）アプリを起動します。
 
 <iframe width="360" height="640" frameborder="0" src="https://mega.nz/embed/SdlkHKxI#Bd1fXCoIiWbm2c5kmsvhk1ofOTlKmKjcgvJ2OTqq1vA" allowfullscreen ></iframe>
 
-<br>
+<br><br><br>
 
 
 
@@ -387,7 +393,7 @@ Morning Star （株の情報管理）アプリを起動します。
   1. 〜〜〜
   2. 〜〜〜
 
-<br>
+<br><br><br>
 
 
 
@@ -402,7 +408,7 @@ Morning Star （株の情報管理）アプリを起動します。
   1. 〜〜〜
   2. 〜〜〜
 
-<br>
+<br><br><br>
 
 
 
@@ -417,7 +423,7 @@ Morning Star （株の情報管理）アプリを起動します。
   1. 〜〜〜
   2. 〜〜〜
 
-<br>
+<br><br><br>
 
 
 
@@ -430,7 +436,7 @@ Morning Star （株の情報管理）アプリを起動します。
   1. 〜〜〜
   2. 〜〜〜
 
-<br>
+<br><br><br>
 
 
 
@@ -443,7 +449,7 @@ Morning Star （株の情報管理）アプリを起動します。
   1. 〜〜〜
   2. 〜〜〜
 
-<br>
+<br><br><br>
 
 
 

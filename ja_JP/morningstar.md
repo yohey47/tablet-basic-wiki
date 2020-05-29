@@ -265,7 +265,7 @@
   * [学ぶ_セミナーとイベント情報](term_learn_fund_news.md)
   * [学ぶ_YouTube動画配信](term_learn_fund_news.md)
 
-## 株の情報閲覧
+<br>
 
 ## アプリの起動
 
@@ -282,11 +282,19 @@
   1. アプリランチャを開きます。
   2. 「My投資信託」をタップします。
 
-<ビデオ予定>
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/KM1zQaCb#CmpHaldW9oBI1k7R3tPXfh1ybjXBd1CFGsUMqT5v82w" allowfullscreen ></iframe>
 
 <br>
 
 ## ウォッチリストの登録
+
+  1. アプロの画面の一番下で「ウォッチリスト」が選択されていることを確認してください。
+  2. <img src="http://drive.google.com/uc?export=view&id=1BaVGqVOemARM3Cx56h4eHvzNnkf5QaYo" alt="progress" width="25" height="auto"> ボタンをタップします。
+  3. 
+
+
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/SdlkHKxI#Bd1fXCoIiWbm2c5kmsvhk1ofOTlKmKjcgvJ2OTqq1vA" allowfullscreen ></iframe>
+
 
 ## ポートフォリオの登録
 

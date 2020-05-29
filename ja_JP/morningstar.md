@@ -8,138 +8,138 @@
 
 <br>
 
-  * [検索 投資信託](term_stock_search_mutualfund_)
-  * [検索 投資信託 ファンド名](term_stock_search_mutualfund_)
+  * [検索 投資信託](term_stock_search_mutualfund_search_mutual_funds.md)
+  * [検索 投資信託 ファンド名](term_stock_search_mutualfund_search_mutual_funds_fund_name.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索_検索条件を指定](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 ファンド大分類を指定](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria.md)
+  * [検索 投資信託 条件を指定して検索 検索条件を指定](term_stock_search_mutualfund_search_mutual_funds-search_by_criteria-search_by_criteria.md)
+  * [検索 投資信託 条件を指定して検索 ファンド大分類を指定](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_major_fund_categories.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 データ対象範囲](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 スターレーティング](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 ファンド大分類](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 投資地域](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 購入手数料](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 信託報酬率](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 トータルリターン（絶対水準）](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 トータルリターン（相対水準）](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 シャープレシオ](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 リスクメジャー](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 純資産規模](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 基準価額水準](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 資金流入](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 連続資金流出入](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 償還までの期間](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 運用経過年数](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_advanced_criteria.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 データ対象範囲](term_stock_search_mutualfund_search_mutual_funds_search_for_specific_conditions_specify_detailed_conditions_main_search_items_scope_of_data.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 スターレーティング](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_advanced_criteria_main_search_criteria_star_rating.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 ファンド大分類](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_advanced_criteria_main_search_items_major_categories_of_funds.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 投資地域](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_advanced_criteria_main_search_items_investment_region.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 購入手数料](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_advanced_criteria_main_search_items_purchase_fees.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 信託報酬率](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_advanced_criteria_main_search_criteria_trust_fee_ratio.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 トータルリターン（絶対水準）](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_main_search_total_returnabsolute_level.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 トータルリターン（相対水準）](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_main_search_criteria_total_return_relative_level.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 シャープレシオ](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_advanced_criteria_main_search_criteria_sharpe_ratio.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 リスクメジャー](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_advanced_criteria_main_search_risk_measure.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 純資産規模](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_advanced_criteria_main_search_items_net_asset_size.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 基準価額水準](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_main_search_items_net_asset_value_levels.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 資金流入](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_advanced_criteria_main_search_criteria_inflows.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 連続資金流出入](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_advanced_criteria_main_search_criteria_continuous_fund_inflows_and_outflows.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 償還までの期間](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_advanced_criteria_main_search_criteria_time_to_redemption.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 主な検索項目 運用経過年数](term_stock_search_mutualfund_search_mutual_funds_search_for_specific_conditions_specify_detailed_conditions_main_search_items_years_under_management.md)
 
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 会社 運用会社](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 会社 販売害者](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 会社 運用会社](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_company_management_company.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 会社 販売害者](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_company_vendor_for_sale.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 投資対象 ファンド大分類](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 投資対象 モーニングスターカテゴリー](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 投資対象 投資地域](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 投資対象 ファンド大分類](term_stock_search_mutualfund_search_mutual_fund_search_by_criteria_specify_advanced_criteria_investment_target_fund_category.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 投資対象 モーニングスターカテゴリー](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_investment_target_morningstar_category.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 投資対象 投資地域](term_stock_search_mutualfund_search_mutual_fund_search_by_criteria_detailed_criteria_investment_target_investment_region.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 評価指数（リスク・リターン勘案） スターレーティング](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 評価指数（リスク・リターン勘案） リスクメジャー](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 評価指数（リスク・リターン勘案） スターレーティング](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_rating_index_risk/return_consideration_star_rating.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 評価指数（リスク・リターン勘案） リスクメジャー](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_valuation_index_risk_return_risk_measure.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 運用戦略 インデックスファンド](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 運用戦略 為替フルヘッジ](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 運用戦略 通過選択ファンド](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 運用戦略 インデックスファンド](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_management_strategy_index_funds.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 運用戦略 為替フルヘッジ](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_investment_strategy_full_hedge.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 運用戦略 通過選択ファンド](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_management_strategy_passing_select_funds.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 手数料・コスト 購入時手数料](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 手数料・コスト 信託報酬率](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 手数料・コスト フィーレベル](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 手数料・コスト 信託財産留保額](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 手数料・コスト 購入時手数料](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_fees_and_costs_purchase_fees.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 手数料・コスト 信託報酬率](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_fees_and_costs_trust_fee_rate.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 手数料・コスト フィーレベル](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_fees_and_costs_fee_levels.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 手数料・コスト 信託財産留保額](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_fees_and_costs_amount_retained_in_trust.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 決算・分配金 決算頻度](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 決算・分配金 分配金利回り](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 決算・分配金 決算頻度](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_settlement_and_distribution_settlement_frequency.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 決算・分配金 分配金利回り](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_accounts_and_distributions_distribution_yields.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン1週間](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン1ヶ月](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン3が月](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン6ヶ月](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン年初来](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン1年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン3年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン5年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン10年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン設定来](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン1週間](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_total_return_greater_than_or_equal_to ◯◯% total_return_for_one_week.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン1ヶ月](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_total_return_greater_than_or_equal_to ◯◯% total_return_for_one_month.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン3が月](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return_is_greater_than ◯◯total_return_is 3 per_month.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン6ヶ月](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_total_return_greater_than_or_equal_to ◯◯% total_return_for_six_months.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン年初来](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return_greater_than_or_equal_to ◯◯% total_return_since_the_beginning_of_the_year.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン1年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return_greater_than_or_equal_to ◯◯ percent_total_return_for_one_year.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン3年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return_greater_than_or_equal_to ◯◯total_return_in_three_years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン5年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return_greater_than_or_equal_to ◯◯% total_return_in_five_years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン10年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_detailed_criteria_total_return_greater_than_or_equal_to 05% total_return 10 years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以上 トータルリターン設定来](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return_is_greater_than_or_equal_to ◯◯total_return_is_set.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン1週間](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン1ヶ月](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン3が月](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン6ヶ月](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン年初来](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン1年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン3年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン5年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン10年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン設定来](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン1週間](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return_is_less_than_or_equal_to ◯◯% total_return_for_one_week.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン1ヶ月](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return ◯◯% or_less_total_return_for_one_month.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン3が月](term_stock_search_mutualfund_search_mutual_funds_search_by_condition_specify_detailed_conditions_total_return_is_below ◯◯ percent_total_return 3 is_a_month.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン6ヶ月](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return ◯◯% or_less_total_return_for_six_months.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン年初来](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return ◯◯% or_less_total_return_since_the_beginning_of_the_year.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン1年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return ◯◯ percent_or_less_total_return 1 year.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン3年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return ◯◯ percent_or_less_total_return 3 years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン5年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return ◯◯ percent_or_less_total_return 5 years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン10年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_total_return ◯◯ percent_or_less_total_return 10 years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 トータルリターン◯％以下 トータルリターン設定来](term_stock_search_mutualfund_search_mutual_funds_search_by_specifying_conditions_specify_detailed_conditions_total_return_is_less_than_or_equal_to ◯◯ percent_total_return_is_set.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以上 シャープレシオ1年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以上 シャープレシオ3年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以上 シャープレシオ5年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以上 シャープレシオ10年](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以上 シャープレシオ1年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_sharpe_ratio_greater_than_or_equal_to 0 sharpe_ratio_one_year.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以上 シャープレシオ3年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_sharpe_ratio_greater_than_or_equal_to 0 sharpe_ratio 3 years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以上 シャープレシオ5年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_sharpe_ratio_greater_than_or_equal_to 0 sharpe_ratio 5 years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以上 シャープレシオ10年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_sharpe_ratio_greater_than_or_equal_to 0 sharpe_ratio 10 years.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以下 シャープレシオ1年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以下 シャープレシオ3年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以下 シャープレシオ5年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以下 シャープレシオ10年](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以下 シャープレシオ1年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_sharpe_ratio_is_greater_than_or_equal_to_zero_sharpe_ratio_is_one_year.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以下 シャープレシオ3年](term_stock_search_mutualfund_search_mutual_funds_search_for_specific_conditions_specify_detailed_conditions_sharpe_ratio_is_greater_than_or_equal_to 0 sharpe_ratio_is_three_years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以下 シャープレシオ5年](term_stock_search_mutualfund_search_mutual_funds_search_for_specific_conditions_specify_detailed_conditions_sharpe_ratio_is_greater_than_or_equal_to 92% sharpe_ratio_is_five_years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 シャープレシオ◯以下 シャープレシオ10年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_details_less_than_or_equal_to_sharp's_ratio_sharp's_ratio 10 years.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以上 標準偏差1年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以上 標準偏差3年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以上 標準偏差5年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以上 標準偏差10年](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以上 標準偏差1年](term_stock_search_mutualfund_search_mutual_funds_search_for_specific_conditions_specify_detailed_conditions_more_than_a_standard_deviation_one_standard_deviation.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以上 標準偏差3年](term_stock_search_mutualfund_search_mutual_funds_search_for_specific_conditions_specify_detailed_conditions_more_than_a_standard_deviation_three_years_standard_deviation.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以上 標準偏差5年](term_stock_search_mutualfund_search_mutual_funds_search_for_specific_conditions_specify_detailed_conditions_more_than_a_standard_deviation_five_years_standard_deviation.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以上 標準偏差10年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_detailed_criteria_standard_deviation_greater_than_or_equal_to 0 standard_deviation 10 years.md)
 
 <br>
 
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以下 標準偏差1年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以下 標準偏差3年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以下 標準偏差5年](term_stock_search_mutualfund_)
-  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以下 標準偏差10年](term_stock_search_mutualfund_)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以下 標準偏差1年](term_stock_search_mutualfund_search_mutual_funds_search_for_specific_conditions_specify_detailed_conditions_less_than_or_equal_to_standard_deviation_standard_deviation_one_year.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以下 標準偏差3年](term_stock_search_mutualfund_search_mutual_funds_search_for_specific_conditions_specify_detailed_conditions_less_than_or_equal_to_standard_deviation_standard_deviation_of_three_years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以下 標準偏差5年](term_stock_search_mutualfund_search_mutual_funds_search_for_specific_conditions_specify_detailed_conditions_standard_deviation_less_than_or_equal_to_zero_standard_deviation_of_five_years.md)
+  * [検索 投資信託 条件を指定して検索 詳細条件を指定 標準偏差◯以下 標準偏差10年](term_stock_search_mutualfund_search_mutual_funds_search_by_criteria_specify_details_less_than_or_equal_to_standard_deviation_standard_deviation 10 years..md)
 
 <br>
 
-  * [検索 投資信託 検索条件の設定例 長期運用が優れる日本株ファンド](term_stock_search_mutualfund_)
-  * [検索 投資信託 検索条件の設定例 アメリカの株式に投資する5つ星ファンド](term_stock_search_mutualfund_)
-  * [検索 投資信託 検索条件の設定例 【国内株式】純資産残高の大きい大御所アクティブファンド](term_stock_search_mutualfund_)
-  * [検索 投資信託 検索条件の設定例 【国内株式】純資産残高の大きい大御所ファンド](term_stock_search_mutualfund_)
-  * [検索 投資信託 検索条件の設定例 【国内債券】5年、10年でプラスリターンの外債ファンド](term_stock_search_mutualfund_)
-  * [検索 投資信託 検索条件の設定例 投資家人気継続中のリスクを抑えたバランスファンド](term_stock_search_mutualfund_)
-  * [検索 投資信託 検索条件の設定例 純資産高が大きく、信託報酬も低いインデックスファンド](term_stock_search_mutualfund_)
-  * [検索 投資信託 検索条件の設定例 （リターンリバーサル）に期待！運用成績改善傾向ファンド](term_stock_search_mutualfund_)
+  * [検索 投資信託 検索条件の設定例 長期運用が優れる日本株ファンド](term_stock_search_mutualfund_search_investment_trusts_examples_of_search_criteria_japanese_equity_funds_with_superior_long-term_investment_performance.md)
+  * [検索 投資信託 検索条件の設定例 アメリカの株式に投資する5つ星ファンド](term_stock_search_mutualfund_search_mutual_funds_examples_of_search_criteria_5-star_funds_that_invest_in_u_s_a_stocks.md)
+  * [検索 投資信託 検索条件の設定例 【国内株式】純資産残高の大きい大御所アクティブファンド](term_stock_search_mutualfund_search_investment_trusts_examples_of_search_criteria [domestic_equities] large-name_active_funds_with_large_net_asset_balances.md)
+  * [検索 投資信託 検索条件の設定例 【国内株式】純資産残高の大きい大御所ファンド](term_stock_search_mutualfund_search_investment_trusts_examples_of_search_criteria [domestic_equities] large-name_funds_with_large_net_asset_balances.md)
+  * [検索 投資信託 検索条件の設定例 【国内債券】5年、10年でプラスリターンの外債ファンド](term_stock_search_mutualfund_search_mutual_funds_examples_of_search_criteria [domestic_bond] foreign_bond_funds_with_positive_returns_over 5 and 10 years.md)
+  * [検索 投資信託 検索条件の設定例 投資家人気継続中のリスクを抑えたバランスファンド](term_stock_search_mutualfund_search_mutual_funds_examples_of_search_criteria_balanced_funds_with_low_risk_that_continue_to_be_popular_with_investors.md)
+  * [検索 投資信託 検索条件の設定例 純資産高が大きく、信託報酬も低いインデックスファンド](term_stock_search_mutualfund_search_mutual_funds_examples_of_search_criteria_index_funds_with_high_net_worth_and_low_trust_fees.md)
+  * [検索 投資信託 検索条件の設定例 （リターンリバーサル）に期待！運用成績改善傾向ファンド](term_stock_search_mutualfund_search_mutual_funds_examples_of_0earch_conditions_expectations_for_return_reversal_improved_performance_tendency_fund.md)
 
 <br>
 
-  * [検索 投資信託 閲覧履歴](term_stock_search_mutualfund_)
+  * [検索 投資信託 閲覧履歴](term_stock_search_mutualfund_browsing_history.md)
 
 <br>
 
@@ -258,9 +258,9 @@
   * [検索 指数 日経ジャスダック平均](term_stock_indices_nikkei_jasdaq_average.md)
   * [検索 指数 VIX](term_stock_indices_vix.md)
   * [検索 指数 世界債権](term_stock_indices_world_trade_receivables.md)
-                                                                                                                   
-<br>                                                                                                               
-                                                                                                                   
+
+<br>
+
   * [検索 為替 米ドル-円](term_stock_search_exchange_usd-yen.md)
   * [検索 為替 ユーロ-円](term_stock_search_exchange_euro-yen.md)
   * [検索 為替 ポンド-円](term_stock_search_exchange_pound_sterling_to_yen.md)
@@ -467,48 +467,3 @@ Morning Star （株の情報管理）アプリを起動します。
   * 必要なもの
     * 登録したメールアドレス
     * 登録したパスワード
-
-Search Indices U.S. Government/Corporate Bonds
-Search Indices U.S. Treasury Bond
-Search Indices Canadian Government Bond
-Search Indices Swiss Government Bond
-Search Indices UK Government Bonds
-Search Indices World and Long-Only Commodities
-Search Exponential Coffee
-Search Indices Copper
-Search indexes Corn
-Search exponential Cotton
-Search exponential Natural gas
-Search Exponential Crude sugar
-Search Indices Silver
-Search Indexes Nikkei Jasdaq Average
-Search Exponential VIX
-Search Indices World Trade Receivables
-
-Search Exchange USD - Yen
-Search Exchange Euro - Yen
-Search for Exchange Pound Sterling to Yen
-Search Currency Exchange Australian Dollar - Japanese Yen
-Search Exchange NZDollar - Yen
-Search Currency Exchange Canadian Dollar - Japanese Yen
-Search Foreign Exchange Swiffran-Yen
-Search Exchange Rates RMB - Yen
-Search Exchange Hong Kong Dollar - Yen
-Search Exchange Won - Yen
-Search Currency Exchange South African Rand - Yen
-Search Exchange Rates SGP Dollar - Yen
-Search Exchange Rates Mexicopesaurus
-Search Currency Exchange Turkish Lira - Yen
-Search Exchange NW Krona - Yen
-Search Exchange SW Krona - Yen
-Search Exchange PLZloty - Yen
-Search for Exchange Euro - US Dollar
-Search for Exchange Pound Sterling - US Dollar
-Search for Exchange Australian Dollar to US Dollar
-Search Exchange Rates Brazilian Real - Yen
-Search Exchange Rates Russian Ruble-Yen
-Search for Exchange New Zealand Dollar - US Dollar
-Search for Exchange Euro-Australian Dollar
-Search for Exchange Pound Sterling - Australian Dollar
-Search for Exchange Euro - Pound Sterling
-Search for Exchange US Dollar - Canadian Dollar

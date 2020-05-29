@@ -282,7 +282,7 @@
   1. アプリランチャを開きます。
   2. 「My投資信託」をタップします。
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/KM1zQaCb#CmpHaldW9oBI1k7R3tPXfh1ybjXBd1CFGsUMqT5v82w" allowfullscreen ></iframe>
+<iframe width="360" height="640" frameborder="0" src="https://mega.nz/embed/KM1zQaCb#CmpHaldW9oBI1k7R3tPXfh1ybjXBd1CFGsUMqT5v82w" allowfullscreen ></iframe>
 
 <br>
 
@@ -293,7 +293,7 @@
   3. <img src="http://drive.google.com/uc?export=view&id=1uJdCqtbwvUmP8D5YL8awYGTs0qn_SIbU" width="100" htight="auto"> ボタンをタップします。
 
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/SdlkHKxI#Bd1fXCoIiWbm2c5kmsvhk1ofOTlKmKjcgvJ2OTqq1vA" allowfullscreen ></iframe>
+<iframe width="360" height="640" frameborder="0" src="https://mega.nz/embed/SdlkHKxI#Bd1fXCoIiWbm2c5kmsvhk1ofOTlKmKjcgvJ2OTqq1vA" allowfullscreen ></iframe>
 
 
 ## ポートフォリオの登録

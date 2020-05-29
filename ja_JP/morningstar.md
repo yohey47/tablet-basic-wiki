@@ -289,7 +289,7 @@
 ## ウォッチリストの登録
 
   1. アプロの画面の一番下で「ウォッチリスト」が選択されていることを確認してください。
-  2. <img src="http://drive.google.com/uc?export=view&id=1BaVGqVOemARM3Cx56h4eHvzNnkf5QaYo" alt="progress" width="25" height="auto"> ボタンをタップします。
+  2. <img src="http://drive.google.com/uc?export=view&id=1BaVGqVOemARM3Cx56h4eHvzNnkf5QaYo" alt="progress" width="40" height="auto"> ボタンをタップします。
   3. 
 
 
